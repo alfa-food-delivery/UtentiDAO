@@ -1,0 +1,3 @@
+CLIENTE,Ruolo per gli utenti clienti
+FATTORINO,Ruolo per gli utenti fattorini
+RISTORATORE,Ruolo per gli utenti ristoratori

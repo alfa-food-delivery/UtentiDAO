@@ -1,0 +1,2 @@
+joelkamilindi@gmail.com,passwordhash1
+simonadespirito@gmail.com,passwordhash2

@@ -1,0 +1,12 @@
+
+b	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ß†”Ã8ºé­¾È1
+c	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(ß†”Ã8»é­¾È1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÄÂ8»é­¾È1
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û†¢˜øÿÿÿÿ8¼é­¾È1
+v
+java:S1450"ZRemove the "userDeleted" field and declare it as a local variable in the relevant methods.(ÂŞ—8Ãé­¾È1
+X	java:S125J"<This block of commented-out lines of code should be removed.(ä£ğ8Íé­¾È1
+X	java:S125N"<This block of commented-out lines of code should be removed.(¾‚˜8Îé­¾È1
+K
+java:S1068"/Remove this unused "userDeleted" private field.(ÂŞ—8×é­¾È1
