@@ -1,12 +1,21 @@
 
-b	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ß†”Ã8ºé­¾È1
-c	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(ß†”Ã8»é­¾È1
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÄÂ8»é­¾È1
-r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û†¢˜øÿÿÿÿ8¼é­¾È1
-v
-java:S1450"ZRemove the "userDeleted" field and declare it as a local variable in the relevant methods.(ÂŞ—8Ãé­¾È1
-X	java:S125J"<This block of commented-out lines of code should be removed.(ä£ğ8Íé­¾È1
-X	java:S125N"<This block of commented-out lines of code should be removed.(¾‚˜8Îé­¾È1
-K
-java:S1068"/Remove this unused "userDeleted" private field.(ÂŞ—8×é­¾È1
+@
+java:S5786 "Remove this 'public' modifier.(şşŒ‘üÿÿÿÿ8úŸ†ÁÈ1
+;
+java:S57869"Remove this 'public' modifier.(¼×¶™8ûŸ†ÁÈ1
+;
+java:S5786H"Remove this 'public' modifier.(ÊºŒû8ûŸ†ÁÈ1
+;
+java:S5786X"Remove this 'public' modifier.(·ã¥§8ûŸ†ÁÈ1
+:
+java:S5786k"Remove this 'public' modifier.(€ÕD8ûŸ†ÁÈ1
+;
+java:S5786w"Remove this 'public' modifier.(’áÖ8ûŸ†ÁÈ1
+<
+java:S5786‡"Remove this 'public' modifier.(°à÷®8ûŸ†ÁÈ1
+;
+java:S5785O"Use assertEquals instead.(£—½úÿÿÿÿ8üŸ†ÁÈ1
+;
+java:S5785c"Use assertEquals instead.(ùâû„ıÿÿÿÿ8üŸ†ÁÈ1
+6
+java:S5785o"Use assertEquals instead.(üø”ù8ıŸ†ÁÈ1

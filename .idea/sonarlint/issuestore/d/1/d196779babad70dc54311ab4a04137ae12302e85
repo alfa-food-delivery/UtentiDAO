@@ -5,6 +5,8 @@ java:S2293G"YReplace the type specification in this constructor call with the d
 java:S2326"T is not used in the class.(õè˜Åøÿÿÿÿ8€ÂÛ Æ1
 =
 java:S2326"I is not used in the class.(õè˜Åøÿÿÿÿ8€ÂÛ Æ1
+W
+java:S2209O"5Change this instance-reference to a static reference.(²¥öÇüÿÿÿÿ8ˆŸ†ÁÈ1
 ]	java:S125i"<This block of commented-out lines of code should be removed.(÷·÷±úÿÿÿÿ8’ÂÛ Æ1
 _
 java:S1126"AReplace this if-then-else statement by a single return statement.(âúĞÔ8•ÂÛ Æ1
